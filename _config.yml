@@ -103,5 +103,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   - type: git
-    repository: git@github.com:DiyaDe/hsuiho.github.io.git #需要更改成ssh地址，就是刚刚复制的那个。
+    repository: https://github.com/DiyaDe/hsuiho.github.io.git #需要更改成ssh地址，就是刚刚复制的那个。
     branch: main
